@@ -1,7 +1,8 @@
 flask
 flask-sqlalchemy
 flask-migrate
-flask_session 
+flask_session
+flask_login 
 psycopg2-binary
 werkzeug
 python-dotenv
